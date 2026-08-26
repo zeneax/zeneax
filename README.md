@@ -119,12 +119,15 @@ operators to a database client, a separate backup service and a third-party erro
 tracker — three tools, three logins, three places to look when something breaks.
 Building them in means the person responsible for the system can actually diagnose it.
 
+**Built solo.** Architecture, database design, interface and implementation — the
+whole system, from the storefront through to the operational tooling behind it.
+
 **Search.** Built on PostgreSQL with purpose-built indexing rather than a bolted-on
 search service. Catalogue search is the feature customers judge a shop by — slow or
 imprecise results cost sales directly — so it was treated as a first-class engineering
 problem across every kind of query the platform serves.
 
-`Next.js` · `TypeScript` · `PostgreSQL` · Private
+`Next.js` · `TypeScript` · `PostgreSQL` · Solo build · Private
 
 ### DepoMotors
 
@@ -139,7 +142,9 @@ find the exact component that fits their vehicle, which makes precise, fast sear
 against a large and highly structured catalogue the central problem rather than a
 supporting feature.
 
-`Next.js` · `TypeScript` · `PostgreSQL` · Private
+Built solo, end to end.
+
+`Next.js` · `TypeScript` · `PostgreSQL` · Solo build · Private
 
 <!--
   Further private / client work goes here, same shape.
