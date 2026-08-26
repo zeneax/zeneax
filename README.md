@@ -126,7 +126,7 @@ problem across every kind of query the platform serves.
 
 `Next.js` · `TypeScript` · `PostgreSQL` · Private
 
-### DemoMotors
+### DepoMotors
 
 An inventory and ordering platform for automotive parts retail, built on the same
 architecture as Shoppex and applied to a domain with its own demands.
