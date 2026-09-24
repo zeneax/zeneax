@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Founded by <a href="https://github.com/zeneax"><strong>Shahram Mazar</strong></a>
+  A Studio by <a href="https://github.com/zeneax"><strong>Shahram Mazar</strong></a>
 </p>
 
 <p align="center">
